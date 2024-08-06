@@ -8,15 +8,19 @@ Detailed View: Clicking on a job listing takes the user to a detailed view of th
 
 # Usage
 # View Job Listings:
-
 The main page displays a list of job opportunities.
 Each job listing shows the job title, company name, description, and an image.
+![Screenshot 2024-08-05 152113](https://github.com/user-attachments/assets/171c961b-10ac-41aa-8d3d-9e61ddeec222)
+
 # Sort Job Listings:
-
 Use the dropdown menu to sort the job listings by "Most relevant" or "Size".
-# View Job Details:
+![Screenshot (99)](https://github.com/user-attachments/assets/a2a8e88c-c443-4bf7-8a6f-c7fe647395ed)
 
+# View Job Details:
 Click on a job listing to navigate to the detailed job description page.
+![Screenshot 2024-08-05 152701](https://github.com/user-attachments/assets/89971127-9896-48a5-a801-6c0790efbca8)
+![Screenshot 2024-08-05 152313](https://github.com/user-attachments/assets/81d51fe8-9899-4d85-93a8-bcc49bf41f14)
+
 
 # Installation
 # Prerequisites
