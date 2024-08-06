@@ -18,8 +18,8 @@ Use the dropdown menu to sort the job listings by "Most relevant" or "Size".
 
 # View Job Details:
 Click on a job listing to navigate to the detailed job description page.
-![Screenshot 2024-08-05 152701](https://github.com/user-attachments/assets/89971127-9896-48a5-a801-6c0790efbca8)
-![Screenshot 2024-08-05 152313](https://github.com/user-attachments/assets/81d51fe8-9899-4d85-93a8-bcc49bf41f14)
+![Screenshot 2024-08-05 153253](https://github.com/user-attachments/assets/f353aa68-d3b9-4bbf-a1c4-27452c009fc5)
+![Screenshot 2024-08-05 153325](https://github.com/user-attachments/assets/27167601-a339-4c6c-8b99-7b817ee44a23)
 
 
 # Installation
